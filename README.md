@@ -1,3 +1,5 @@
 # java-kafka-project
 
 A simple project demonstrating the use of Kafka with Java.
+
+Apache Kafka was originally developed by LinkedIn and later released as an open-source project in 2011. Apache Kafka is a system for managing real-time data flows generated from web sites, applications and sensors. Some of the companies that use Kafka: LinkedIn, Netflix, PayPal, Spotify, Uber, AirBnB, Cisco, Goldman Sachs and SalesForce. Recently IBM announced the creation of two projects involving Apache Kafka. LinkedIn has the biggest Kafka environment we have ever heard of, with 1.1 trillion messages per day. Essentially, Kafka acts as a sort of "central nervous system," which collects high-volume data such as user activity (clicks on a web site), logs, stock quotes, etc., and makes this data available as a Flow for consumption by other applications. Kafka has been gaining more and more popularity in Big Data because, in addition to being a high-quality open-source project, it has the ability to handle high-speed data streams, an increasingly sought-after feature for Internet use of Things, for example.
